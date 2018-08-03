@@ -11,10 +11,5 @@ namespace Animal_Kingdom
         public void Miauler()
         {
         }
-
-        public void Marcher()
-        {
-
-        }
     }
 }

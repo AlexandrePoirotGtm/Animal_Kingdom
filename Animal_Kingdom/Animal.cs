@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Animal_Kingdom
 {
-    abstract class Animal
+    public abstract class Animal
     {
-        protected void Marcher()
+        public void Marcher()
         {
-
         }
     }
 }

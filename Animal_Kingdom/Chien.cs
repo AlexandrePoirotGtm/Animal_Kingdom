@@ -10,12 +10,6 @@ namespace Animal_Kingdom
     {
         public void Aboyer()
         {
-
-        }
-
-        public void Marcher()
-        {
-
         }
     }
 }

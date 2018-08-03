@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Animal_Kingdom
 {
-    abstract class Mamifère
+    abstract class Mamifère : Animal
     {
 
     }

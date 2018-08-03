@@ -8,9 +8,5 @@ namespace Animal_Kingdom
 {
     class Poule : Oiseau
     {
-        public void Marcher()
-        {
-
-        }
     }
 }
