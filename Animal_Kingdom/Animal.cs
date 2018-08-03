@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Animal_Kingdom
 {
-    class Program
+    abstract class Animal
     {
-        static void Main(string[] args)
+        protected void Marcher()
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+
         }
     }
 }

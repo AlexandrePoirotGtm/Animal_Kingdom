@@ -42,7 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Chat.cs" />
+    <Compile Include="Chien.cs" />
+    <Compile Include="Mamifère.cs" />
+    <Compile Include="Oiseau.cs" />
+    <Compile Include="Poule.cs" />
+    <Compile Include="Animal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
